@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /c/
+Disallow: /e/class/
+Disallow: /e/config/
+Disallow: /e/data/
+Disallow: /e/enews/
+Disallow: /e/update/
+Disallow: /ecachefiles/
+Disallow: /esavedatas/
